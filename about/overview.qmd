@@ -1,0 +1,13 @@
+---
+title: "Project Overview"
+---
+The OpenText.org project is a web-based initiative to develop annotated Greek texts and tools for their analysis. The project aims both to serve, and to collaborate with, the scholarly community. Texts are annotated with various levels of linguistic information, such as text-critical, grammatical, semantic and discourse features.
+
+Beginning with the New Testament, the project aims to construct a representative corpus of Hellenistic Greek to facilitate linguistic and literary research of these important documents. These texts are then annotated through the addition of linguistic and literary features (including marking morphological, syntactical and discourse elements) following a comprehensive model currently under development. The resulting texts can be viewed and searched on this site. It is hoped that interested users will collaborate in the correction and enhancement of this annotation, and become involved in the annotation process themselves.
+
+The key features of the project are:
+
+- texts annotated at distinct linguistic levels
+- the use of an XML encoding scheme to mark-up texts
+- an 'open' and collaborative approach to encourage the annotation and use of texts
+- an on-line tool kit to allow searching and analysis of texts

@@ -1,0 +1,45 @@
+project:
+  type: website
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+  
+website:
+  title: "OpenText.org"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+
+  sidebar:
+    contents:
+      - section: "about"
+        contents:
+          - href: about/overview.qmd
+          - href: about/rationale.qmd
+          - href: about/partners.qmd
+          - href: about/contact.qmd
+      - text: "---"
+      - section: "model"
+        contents:
+          - href: model/model-introduction.qmd
+          - href: model/guidelines.qmd
+      - text: "---"
+      - section: "texts"
+        contents:
+          - href: texts/NT.qmd
+      - text: "---"
+      - section: "resources"
+        contents:
+          - href: resources/articles.qmd
+
+      
+
+      
+  page-footer: "Copyright 1998-2026, OpenText.org" 
