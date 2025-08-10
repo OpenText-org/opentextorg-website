@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about/overview.html",
+    "href": "about/overview.html",
+    "title": "Project Overview",
+    "section": "",
+    "text": "The OpenText.org project is a web-based initiative to develop annotated Greek texts and tools for their analysis. The project aims both to serve, and to collaborate with, the scholarly community. Texts are annotated with various levels of linguistic information, such as text-critical, grammatical, semantic and discourse features.\nBeginning with the New Testament, the project aims to construct a representative corpus of Hellenistic Greek to facilitate linguistic and literary research of these important documents. These texts are then annotated through the addition of linguistic and literary features (including marking morphological, syntactical and discourse elements) following a comprehensive model currently under development. The resulting texts can be viewed and searched on this site. It is hoped that interested users will collaborate in the correction and enhancement of this annotation, and become involved in the annotation process themselves.\nThe key features of the project are:\n\ntexts annotated at distinct linguistic levels\nthe use of an XML encoding scheme to mark-up texts\nan ‘open’ and collaborative approach to encourage the annotation and use of texts\nan on-line tool kit to allow searching and analysis of texts"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to OpenText.org",
+    "section": "",
+    "text": "See project overview\nLearn about project partners"
+  },
+  {
+    "objectID": "about/partners.html",
+    "href": "about/partners.html",
+    "title": "today",
+    "section": "",
+    "text": "Primary Partners\n\nMatthew Brook O’Donnell"
+  }
+]
