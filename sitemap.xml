@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://OpenText-org.github.io/opentextorg-website/model/model-introduction.html</loc>
-    <lastmod>2025-08-10T21:21:31.947Z</lastmod>
-  </url>
-  <url>
-    <loc>https://OpenText-org.github.io/opentextorg-website/about.html</loc>
-    <lastmod>2025-08-10T21:21:31.494Z</lastmod>
-  </url>
-  <url>
-    <loc>https://OpenText-org.github.io/opentextorg-website/about/rationale.html</loc>
-    <lastmod>2025-08-10T21:21:31.138Z</lastmod>
+    <loc>https://OpenText-org.github.io/opentextorg-website/about/partners.html</loc>
+    <lastmod>2025-08-10T21:25:23.744Z</lastmod>
   </url>
   <url>
     <loc>https://OpenText-org.github.io/opentextorg-website/about/overview.html</loc>
-    <lastmod>2025-08-10T21:21:30.717Z</lastmod>
+    <lastmod>2025-08-10T21:25:23.744Z</lastmod>
   </url>
   <url>
     <loc>https://OpenText-org.github.io/opentextorg-website/index.html</loc>
-    <lastmod>2025-08-10T21:21:30.500Z</lastmod>
+    <lastmod>2025-08-10T21:25:23.744Z</lastmod>
   </url>
   <url>
-    <loc>https://OpenText-org.github.io/opentextorg-website/about/contact.html</loc>
-    <lastmod>2025-08-10T21:21:30.911Z</lastmod>
-  </url>
-  <url>
-    <loc>https://OpenText-org.github.io/opentextorg-website/about/partners.html</loc>
-    <lastmod>2025-08-10T21:21:31.321Z</lastmod>
+    <loc>https://OpenText-org.github.io/opentextorg-website/model/model-introduction.html</loc>
+    <lastmod>2025-08-10T21:25:23.744Z</lastmod>
   </url>
   <url>
     <loc>https://OpenText-org.github.io/opentextorg-website/model/guidelines.html</loc>
-    <lastmod>2025-08-10T21:21:31.687Z</lastmod>
+    <lastmod>2025-08-10T21:25:23.744Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OpenText-org.github.io/opentextorg-website/about.html</loc>
+    <lastmod>2025-08-10T21:25:23.744Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OpenText-org.github.io/opentextorg-website/about/rationale.html</loc>
+    <lastmod>2025-08-10T21:25:23.744Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OpenText-org.github.io/opentextorg-website/about/contact.html</loc>
+    <lastmod>2025-08-10T21:25:23.744Z</lastmod>
   </url>
 </urlset>
