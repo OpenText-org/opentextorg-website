@@ -1,6 +1,10 @@
 ---
 title: "Welcome to OpenText.org"
-
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: [articles]
 ---
 
 * [See project overview](about/overview.qmd)
