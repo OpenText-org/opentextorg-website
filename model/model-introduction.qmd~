@@ -1,0 +1,62 @@
+---
+title: "OpenText.org Annotation Model"
+---
+
+
+### Introduction to the Annotation Model
+(Nov. 2004)
+
+The clause is recognized as the primary building block in the OpenText.org annotation model because it is the level at which propositions are made. The different types of annotations are thus built around the clause annotation, the word group annotation (which make up the clause components), and the relationship between clauses (including the distinction into distinct primary, secondary, and secondary embedded clause levels) as the base. Table 2 summarizes the major categories of tags for the clause and word group level annotations. The vertical axis of the table delineates the four basic clause level function slots. The horizontal axis of the table gives the three clauses levels. The information within the table refers to the word groups, which fit inside the clause function slots.
+
+: Table 2. Clause and Word Group Annotations
+| Clause Level	| Subject (S)	| Predicator (P)	| Complement (C)	| Adjunct (A) |
+| ------------  | ------------- | ----------------  | -------------- | ----------- |
+| Primary |	Head Term-Modifiers	| Verbal Form	| Head Term-Modifiers	| Head Term-Modifiers |
+| Secondary Unembedded |	Head Term-Modifiers	| Verbal Form	| Head Term-Modifiers	| Head Term-Modifiers |
+| Secondary Embedded |	Head Term-Modifiers	| Verbal Form	| Head Term-Modifiers	| Head Term-Modifiers |
+
+### Clause Level Annotation
+At the clause level, only four tags are used, excluding conjunctions between clauses (marked “conj”). To aid understanding, it is helpful to consider the clause functions in terms of function slots. All word groups fit into these function slots. There are only four function slots and they are:
+
+- Subject (S)
+- Predicator (P)
+- Complement (C)
+- Adjunct (A)
+
+The tag subject (S) is used of a word group or the word groups of which something is predicated. (In traditional grammar the distinguishing term is “grammatical subject.”)
+
+All verbal forms are tagged as predicators (P).
+
+A complement (C) is a word group or the word groups that “complete” its predicator. Common complements are direct and indirect objects.
+
+An adjunct (A) is a word group or the word groups that modify the predicator, providing an indication of the circumstances associated with the process. Common adjuncts are prepositional and adverbial phrases.
+
+This annotation scheme reflects Halliday’s conception of the grammar of a clause (i.e., the transitivity system at the level of a clause). The subjects and complements in the clause level annotation correspond to the participants in a process; the predicators correspond to the processes; and the adjuncts typically correspond to the circumstances associated with the process, though some adjuncts are peripheral participants in a process.
+
+### Word Group Level Annotation Model
+At the word group level, all words are basically either head terms or modifiers. The head term usually refers to the nominal that all the other words in the word group modify. Four types of modifiers are identified:
+
+- specifiers (sp)
+- definers (df)
+- qualifiers (ql)
+- relators (rl)
+
+A specifier (sp) is a modifier that classifies or identifies the word it modifies. Common examples of specifiers are articles and prepositions.
+
+A definer (df) is a modifier that attributes features or further defines the word it modifies. Common examples of definers are adjectives (both attributive and predicate structure) and appositional words or phrases.
+
+A qualifier (ql) is a modifier that in some way limits or constrains the scope of the word it modifies. Common examples of qualifiers are words in the genitive and dative case.
+
+A relator (rl) is a word specified by a preposition (i.e., the object of a preposition) that modifies another element within the word group.
+
+### Clause Levels
+Clauses are divided into two levels: 
+1. Primary clauses
+2. Secondary clauses 
+
+The primary and secondary distinction has to do with the two possible types of logical dependency, dependence (hypotaxis) or equality (parataxis). 
+
+Primary clauses are connected to each other, while secondary clauses are connected to the primary clause to which it is dependent. The majority of primary clauses consist of clauses with a finite verb. 
+
+Secondary clauses are typically distinguished by means of a subordinating conjunction. A second type of secondary clause, the embedded clause, involves the phenomenon of rank-shifting—a linguistic element is embedded to a level of grammar lower than the typical level at which it functions. The majority of secondary embedded clauses in Greek are participial and infinitival clauses.
+

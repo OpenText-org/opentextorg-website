@@ -1,0 +1,14 @@
+---
+title: "OpenText.org Annotation Model Specifications & Guidelines"
+---
+
+### Current specifications
+- Character Level (Diplomatic) Papyrus Encoding (ver. 0.1)
+- Base (Word) Level Annotation Specification (ver. 0.2)
+- Word Group Annotation Specification (ver. 0.2)
+- Clause Level Annotation Specification (ver. 0.2)
+- Paragraph Level Annotation Specification (ver. 0.2)
+
+### Older Specifications:
+- Word Group Annotation Specification (ver. 0.1)
+- Clause Level Annotation Specification (ver. 0.1)
