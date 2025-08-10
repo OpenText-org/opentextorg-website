@@ -14,8 +14,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
+    tools:
+      - icon: github
+        href: https://github.com/OpenText-org
 
   sidebar:
     contents:
@@ -29,7 +31,9 @@ website:
       - section: "model"
         contents:
           - href: model/model-introduction.qmd
+            text: "Introduction"
           - href: model/guidelines.qmd
+            text: "Guidelines"
       - text: "---"
       - section: "texts"
         contents:

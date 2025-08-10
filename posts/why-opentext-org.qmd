@@ -1,0 +1,23 @@
+---
+title: "Why OpenText.org?"
+author: "Randall K. Tan"
+date: "07/22/2005"
+categories:
+  - articles
+---
+
+First-time visitors to this website may be wondering: What is the nature and purpose of this website? Why does OpenText.org exist? There are really several levels of motivations & several different kinds of issues our project is trying to address. One way of to answer this question is to summarize the purposes of the OpenText.org project under 4 headings:
+
+1. to address limitations of existing morphological texts
+2. to address limitations of traditional grammar
+3. to address limitations of traditional methods of studying texts, grammar, and lexis
+4. to provide material necessary for thorough discourse analysis & exegetical study
+
+
+First, we are trying to address the limitations of existing morphological texts. We realize that there are already some very fine texts in available software programs. Nevertheless, they are all strictly word-based, that is the information available is restricted to the morphology and meaning of individual words. Thus they are of limited help when our interest is in the patterns and meanings of constructions above the word-level such as phrases, clauses, and paragraphs. Currently, the word group and clause level annotations of OpenText.org provide previously-unavailable information on phrase and clause level patterns and meanings.
+
+Second, we are trying to address the limitations of traditional grammar. We have a proud tradition of grammars and we literally stand on the shoulder of giants when we conduct studies on Greek grammar. We are by no means suggesting that we should start from scratch. Nevertheless, the major reference grammars are significantly dated and do not take into account the more complete textual evidence we now possess or insights from at least half a century of linguistic studies. By applying corpus linguistics, OpenText.org incorporates insights from modern linguistics and uses the considerable power of modern computers to provide comprehensive searches and displays of all available information on word, word group, and clause level grammatical and semantic phenomena. For those interested in learning Greek or in teaching Greek in a more effective manner, our levels of annotation also contain a basic framework for understanding Greek grammar that we believe is both easier to learn and sounder linguistically than what is often found in pedagogical grammars currently available (e.g., there is a confused mixing of formal and semantic labels and an unjustifiable multiplying of such labels for grammatical constructions like dozens of categories for the genitive construction).
+
+Third, we are trying to address the limitations of traditional methods of studying texts, grammar, and lexis. The word, word group, and clause information furnished by OpenText.org is designed to aid those studying texts, grammar, and/or lexis get comprehensive and reliable results in a time-efficient manner (e.g., getting complete evidence in seconds or minutes that may have taken weeks or months previously by manual counting). Besides help in overcoming previous limitations on comprehensiveness and time, the model and information supplied by our project is put forward as a starting point for further studies and discussions on what are effective methods of studying texts, grammar, and lexis. From our perspective, an effective method must be based on sound linguistic principles and we are unapologetic in commending the linguistic model upon which our project is built.
+
+Fourth, we are trying to provide material necessary for thorough discourse analysis and exegetical study. As modern linguistic theory and studies have shown, studies focused mainly on words are inadequate and unable to provide thorough insight into the patterns and meanings of an entire discourse/text or even any given stretch of text. In New Testament studies, there is apparently increasing interest in analyzing entire discourses and in various methods of discourse analysis. With the OpenText.org project, we provide both a theory and a means of application of discourse analysis in our searchable and reusable texts. It is our hope that our work will not only aid many in doing thorough discourse analyses and exegetical studies, but also spur further discussion on and research into how to do discourse analysis and exegetical study in sounder and more effective ways.

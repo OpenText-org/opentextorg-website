@@ -1,0 +1,40 @@
+---
+title: "Introduction to the OpenText.org Annotation Model from a Pedagogical Perspective"
+author: "Randall K. Tan"
+date: "11/27/2004"
+categories:
+  - articles
+  - pedagogy
+  - model
+---
+
+Imagine that you’re teaching an introductory class on the Gospels to university students. You have six weeks to instruct them how to read the Gospels, on top of educating them about the content of these writings, introductory issues, and other matters. Most of your students know practically nothing about the Gospels and don’t have the slightest idea how to read them. What kind of approach would you take to instruct them?
+
+I faced this situation when I taught my first class on the Synoptic Gospels. Having just applied M. A. K. Halliday’s model of systematic functional linguistics (SFL) to my study of “law” in Paul’s epistle to the Romans in my dissertation, I decided to take up the challenge of teaching uninitiated students how to apply aspects of this model to the study of the Gospels.
+
+The first challenge was to boil down the theory into a simplified framework that my students could readily understand and learn. I explained that there are 3 components common to all linguistic representation:
+
+1. The participants (the who & whom)
+2. The process (what is happening or done)
+3. The circumstances (when, where, how, why)
+
+Using this system of “transitivity,” we represent through language who is doing what to/for whom under what kind of circumstances. The meanings represented can in turn be categorized under three main functions, answering the following three questions:
+
+1. What? (i.e., what is happening?)
+2. Who? (i.e., what roles are the participants playing?)
+3. How? (i.e., how does what is happening and what roles the participants are playing fit together and cohere as a message?)
+
+Some students were able to apply the framework to read the Gospel texts without further assistance. The majority, however, remained unsure how to put the framework to use. My second challenge, then, was to present my students with a model to systematically ask and answer the questions concerning the participants, process, and circumstances and how everything coheres as a message. I prepared the following template to help them. First, I told them to use existing paragraph divisions and titles in their English Bibles as a starting point. Then, I taught them to ask the following two-part questions in sequence:
+
+1. Who are the main participants in the paragraph?; and how do you determine that those participants are the main ones?
+2. What are the role relationships between those participants? and how do you determine the role relationships between those participants?
+3. What are the main processes?; and how do you determine that those processes are the main ones?
+
+Finally, I instructed them to ask if there are any other words or ideas that are emphasized before painting an overall portrait of the passage with the answers they have given above.
+The first two-part question gets the students to trace the interaction of both the external participants (i.e., writer and audience) and internal participants (i.e., characters in the narrative or exposition). Participants that get the most press usually correspond to the main participants. The second two-part question leads the students to look further at descriptions of those participants and who is doing what to/for whom. The third two-part question focuses on what is happening. The main processes are usually repeated—either with the same or related words. While prominent participants and processes are picked up in the previous questions, possibly emphasized circumstances are taken into consideration in the final question before painting an overall portrait.
+
+What were the results of this experiment with teaching how to read a text using a simplified systemic functional framework? In an anonymous survey I conducted 4 weeks into the class, 11 out of 22 students rated the model as excellent and 3 others rated it as good. In the final two weeks of the class, I devoted much effort to clearing up the remaining confusion that some students had and gave the class more practice applying the model. In the section on text analysis on the final exam, 13 out of 22 students achieved 90% or above accuracy in answering questions on the various Gospel passages on which they were tested. Another 6 students scored 80% or above.
+
+What lessons may we learn from my teaching experience above? First, the basic concepts underlying systemic functional linguistics can, in fact, be readily understood and learned. Second, the SFL framework can help any would-be interpreter in the task of reading and understanding a biblical text like a Gospel passage.
+
+Even though the annotation model that you will be introduced to on this website is more sophisticated and technically rigorous, the basic concepts and questions remain the same as what I taught my students. The different levels of annotation play a role in answering each of these questions. For example, the clause level annotation elegantly captures who does what to/for whom under what circumstances in terms of the labels Subject (S), Predicator (P), Complement (C), and Adjunct (A). The participant referent annotation traces the interaction of the external and internal participants. The semantic domain annotation allows for the analysis of patterns of meaning repetition and thus discernment of prominent fields of meaning (i.e., what processes or circumstances are emphasized).

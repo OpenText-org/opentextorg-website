@@ -1,0 +1,16 @@
+---
+title: "Using Codex Sinaiticus as an Alternative to a Modern Eclectic Text"
+author: "Stanley E. Porter"
+date: "01/05/2002"
+categories:
+  - articles
+  - Codex Sinaiticus
+  - GNT
+---
+
+
+Codex Sinaiticus was discovered in the nineteenth century by Constantine Tischendorf at St Catherine's Monastery in the Sinai. He realized from the outset that this manuscript was one of the most important New Testament manuscripts ever discovered. His judgment at that time has proven correct. Despite the controversy that has surrounded this manuscript ever since, one fact is clear-it constitutes one of the two earliest major majuscule codex manuscripts used in textual criticism of the New Testament. In fact, Sinaiticus is the only one of these two codexes, the other being Codex Vaticanus, to be complete for the New Testament. The fourth-century date assigned to Sinaiticus and Vaticanus has suggested to many that these may have been two of the codex manuscripts reportedly prepared by Eusebeius for Constantine.
+
+In any case, the general quality of the manuscripts, their completeness and their early date have given them a position of priority in text-critical circles from the time of Westcott and Hort to the present. Westcott and Hort labelled them the Neutral Text, and whereas few textual critics would use such language today, these two manuscripts still maintain a position of supreme importance. Examination of subsequent editions that put emphasis upon the Alexandrian textual tradition, such as the Nestle-Aland or UBSGNT text, shows that Sinaiticus and Vaticanus still reign supreme. Despite much discussion of the New Testament Greek papyri, many of them fairly recently discovered and published, their importance for New Testament textual criticism has not eclipsed the significance of the two major codexes. In fact, the departures by modern so-called eclectic Greek texts from these major codexes are often few in number in a given New Testament book, sometimes confined for the most part to variations in spelling.
+
+In the light of this, it is worth considering whether there should not be a return to use of such a text as Codex Sinaiticus. Rather than being a scholarly construct of the twentieth century, Codex Sinaiticus, along with other ancient manuscripts, constituted an ancient manuscript actually used and revised by various early Christian communities (the various correcting hands of Sinaiticus attest to its use, but also raise a number of important critical issues). Therefore, it provides unparalleled access to an earlier form of the text as used by early Christians. The text of Sinaiticus constitutes the basis for the texts used in OpenText.org.

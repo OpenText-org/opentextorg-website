@@ -1,0 +1,19 @@
+---
+title: "Can the Text of the Greek New Testament Really be Copyrighted?"
+author: "Stanley E. Porter"
+date: "01/11/2001"
+categories:
+  - articles
+  - copyright
+  - GNT
+---
+
+
+
+The editions of the New Testament commonly in use, such as the Nestle-Aland and UBSGNT texts, are copyrighted by various organizations. There probably is little basis for doubting that some if not much of the work that has gone into the production of these texts should be protected through copyright, especially the punctuation provided and the way in which the text-critical apparatuses that are such an important part of these texts are displayed (verse divisions, of course, pre-date copyright restrictions, since they are medieval). There are also other matters of display, such as alternation of font styles and sizes that are unique to these editions and probably merit protection as well. However, can the texts themselves be copyrighted?
+
+The rough claim has been made, even by some of those connected with or the keenest advocates of the standard critical texts in use, that these texts are so close to the original text of the New Testament so as to be virtually the same as that text. If such a claim is valid (and there are many who would dispute it, however), then it would seem to indicate that the text itself of the Greek New Testament cannot and should not be copyrighted, since the text that is being presented is an ancient one, in fact one almost two thousand years old, and hence well beyond any recognizable limit on copyright.
+
+Others would perhaps make the claim that the effort involved in transcribing the manuscripts merits copyright protection. That may or may not be true for a particular edition. However, those who have created the standard critical texts are not the editors of the vast majority of the texts that have been used in the compilation of their text. In fact, these standard critical texts, so far as is determinable, are dependent upon much work by earlier scholars who have transcribed these manuscripts. (The issue of whether any library or museum should control access to manuscripts, such that others are not allowed access to them for scholarly and editorial purposes is beyond the limits of comment here.)
+
+Others might well pull back from the first claim above regarding the earliness of the text represented by the standard critical editions, claiming as a basis for copyright that the text is one that has been created and updated by contemporary scholars, and therefore merits protection. However, if this is true, then one must wonder what status such a text has in text-critical discussion, since a twentieth-century eclectic text that makes no claim to being early would seem to be an inferior text to a good number of earlier ones, including the major fourth century codexes. Furthermore, examination of the standard critical texts in comparison with some of the earlier manuscripts reveals very little variation at certain points. For example, let's say that such a standard critical text of today varied in two spellings and four different word forms or phrases from Codex Sinaiticus for a book such as Philemon with 335 words. That would constitute a variance of no more than two percent. Should a difference of two percent constitute a basis for copyright? It would appear that there may be grounds for saying that New Testament Greek texts that purport to represent the earliest text, or that only vary from earlier manuscripts in relatively insignificant ways, do not merit or justify copyright protection, at least as it is usually defined.
