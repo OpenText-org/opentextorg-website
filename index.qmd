@@ -4,7 +4,7 @@ listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: [articles]
+  categories: true
 ---
 
 * [See project overview](about/overview.qmd)
