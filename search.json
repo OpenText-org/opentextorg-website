@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about/overview.html",
-    "href": "about/overview.html",
-    "title": "Project Overview",
+    "objectID": "model/model-introduction.html",
+    "href": "model/model-introduction.html",
+    "title": "OpenText.org Annotation Model",
     "section": "",
-    "text": "The OpenText.org project is a web-based initiative to develop annotated Greek texts and tools for their analysis. The project aims both to serve, and to collaborate with, the scholarly community. Texts are annotated with various levels of linguistic information, such as text-critical, grammatical, semantic and discourse features.\nBeginning with the New Testament, the project aims to construct a representative corpus of Hellenistic Greek to facilitate linguistic and literary research of these important documents. These texts are then annotated through the addition of linguistic and literary features (including marking morphological, syntactical and discourse elements) following a comprehensive model currently under development. The resulting texts can be viewed and searched on this site. It is hoped that interested users will collaborate in the correction and enhancement of this annotation, and become involved in the annotation process themselves.\nThe key features of the project are:\n\ntexts annotated at distinct linguistic levels\nthe use of an XML encoding scheme to mark-up texts\nan ‘open’ and collaborative approach to encourage the annotation and use of texts\nan on-line tool kit to allow searching and analysis of texts"
+    "text": "Introduction to the Annotation Model\n(Nov. 2004)\n\nThe clause is recognized as the primary building block in the OpenText.org annotation model because it is the level at which propositions are made. The different types of annotations are thus built around the clause annotation, the word group annotation (which make up the clause components), and the relationship between clauses (including the distinction into distinct primary, secondary, and secondary embedded clause levels) as the base. Table 2 summarizes the major categories of tags for the clause and word group level annotations. The vertical axis of the table delineates the four basic clause level function slots. The horizontal axis of the table gives the three clauses levels. The information within the table refers to the word groups, which fit inside the clause function slots.\n\nTable 2. Clause and Word Group Annotations | Clause Level | Subject (S) | Predicator (P) | Complement (C) | Adjunct (A) | | ———— | ————- | —————- | ————– | ———– | | Primary | Head Term-Modifiers | Verbal Form | Head Term-Modifiers | Head Term-Modifiers | | Secondary Unembedded | Head Term-Modifiers | Verbal Form | Head Term-Modifiers | Head Term-Modifiers | | Secondary Embedded | Head Term-Modifiers | Verbal Form | Head Term-Modifiers | Head Term-Modifiers |\n\n\n\n\nClause Level Annotation\nAt the clause level, only four tags are used, excluding conjunctions between clauses (marked “conj”). To aid understanding, it is helpful to consider the clause functions in terms of function slots. All word groups fit into these function slots. There are only four function slots and they are:\n\nSubject (S)\nPredicator (P)\nComplement (C)\nAdjunct (A)\n\nThe tag subject (S) is used of a word group or the word groups of which something is predicated. (In traditional grammar the distinguishing term is “grammatical subject.”)\nAll verbal forms are tagged as predicators (P).\nA complement (C) is a word group or the word groups that “complete” its predicator. Common complements are direct and indirect objects.\nAn adjunct (A) is a word group or the word groups that modify the predicator, providing an indication of the circumstances associated with the process. Common adjuncts are prepositional and adverbial phrases.\nThis annotation scheme reflects Halliday’s conception of the grammar of a clause (i.e., the transitivity system at the level of a clause). The subjects and complements in the clause level annotation correspond to the participants in a process; the predicators correspond to the processes; and the adjuncts typically correspond to the circumstances associated with the process, though some adjuncts are peripheral participants in a process.\n\n\nWord Group Level Annotation Model\nAt the word group level, all words are basically either head terms or modifiers. The head term usually refers to the nominal that all the other words in the word group modify. Four types of modifiers are identified:\n\nspecifiers (sp)\ndefiners (df)\nqualifiers (ql)\nrelators (rl)\n\nA specifier (sp) is a modifier that classifies or identifies the word it modifies. Common examples of specifiers are articles and prepositions.\nA definer (df) is a modifier that attributes features or further defines the word it modifies. Common examples of definers are adjectives (both attributive and predicate structure) and appositional words or phrases.\nA qualifier (ql) is a modifier that in some way limits or constrains the scope of the word it modifies. Common examples of qualifiers are words in the genitive and dative case.\nA relator (rl) is a word specified by a preposition (i.e., the object of a preposition) that modifies another element within the word group.\n\n\nClause Levels\nClauses are divided into two levels: 1. Primary clauses 2. Secondary clauses\nThe primary and secondary distinction has to do with the two possible types of logical dependency, dependence (hypotaxis) or equality (parataxis).\nPrimary clauses are connected to each other, while secondary clauses are connected to the primary clause to which it is dependent. The majority of primary clauses consist of clauses with a finite verb.\nSecondary clauses are typically distinguished by means of a subordinating conjunction. A second type of secondary clause, the embedded clause, involves the phenomenon of rank-shifting—a linguistic element is embedded to a level of grammar lower than the typical level at which it functions. The majority of secondary embedded clauses in Greek are participial and infinitival clauses."
+  },
+  {
+    "objectID": "about/contact.html",
+    "href": "about/contact.html",
+    "title": "Contact & Involvement",
+    "section": "",
+    "text": "Contributing to the Annotation\nIf you are interested in getting involved in the annotation of the Greek New Testament, Apostolic Fathers and other Hellenistic texts please contact Matt O’Donnell.\n\nEmail\nFor information regarding OpenText.org please contact Matt O’Donnell"
   },
   {
     "objectID": "index.html",
@@ -14,10 +21,24 @@
     "text": "See project overview\nLearn about project partners"
   },
   {
+    "objectID": "about/overview.html",
+    "href": "about/overview.html",
+    "title": "Project Overview",
+    "section": "",
+    "text": "The OpenText.org project is a web-based initiative to develop annotated Greek texts and tools for their analysis. The project aims both to serve, and to collaborate with, the scholarly community. Texts are annotated with various levels of linguistic information, such as text-critical, grammatical, semantic and discourse features.\nBeginning with the New Testament, the project aims to construct a representative corpus of Hellenistic Greek to facilitate linguistic and literary research of these important documents. These texts are then annotated through the addition of linguistic and literary features (including marking morphological, syntactical and discourse elements) following a comprehensive model currently under development. The resulting texts can be viewed and searched on this site. It is hoped that interested users will collaborate in the correction and enhancement of this annotation, and become involved in the annotation process themselves.\nThe key features of the project are:\n\ntexts annotated at distinct linguistic levels\nthe use of an XML encoding scheme to mark-up texts\nan ‘open’ and collaborative approach to encourage the annotation and use of texts\nan on-line tool kit to allow searching and analysis of texts"
+  },
+  {
     "objectID": "about/partners.html",
     "href": "about/partners.html",
     "title": "OpenText.org",
     "section": "",
     "text": "Primary Partners\n\nMatthew Brook O’Donnell"
+  },
+  {
+    "objectID": "model/guidelines.html",
+    "href": "model/guidelines.html",
+    "title": "OpenText.org Annotation Model Specifications & Guidelines",
+    "section": "",
+    "text": "Current specifications\n\nCharacter Level (Diplomatic) Papyrus Encoding (ver. 0.1)\nBase (Word) Level Annotation Specification (ver. 0.2)\nWord Group Annotation Specification (ver. 0.2)\nClause Level Annotation Specification (ver. 0.2)\nParagraph Level Annotation Specification (ver. 0.2)\n\n\n\nOlder Specifications:\n\nWord Group Annotation Specification (ver. 0.1)\nClause Level Annotation Specification (ver. 0.1)"
   }
 ]
