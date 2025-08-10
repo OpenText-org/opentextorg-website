@@ -1,0 +1,39 @@
+---
+title: "Transivity"
+author: "Randall K. Tan"
+date: "02/11/2005"
+categories:
+  - articles
+  - clauses
+  - processes
+---
+
+
+The concept of transitivity in Halliday’s grammatical system is a powerful tool in the analysis of the meanings expressed in clauses. The term transitivity has a broader and narrower meaning. The narrower meaning (found in traditional grammatical description and the one with which most readers are probably familiar) involves the verb’s relationship to dependent elements of structure. Transitive verbs take a direct object and intransitive verbs do not. Stated differently, the action of the verb extends to another entity in a transitive clause, but not in an intransitive clause. For example, the difference between “The tiger (Actor) pounced (Process)” and “The tiger (Actor) ate (Process) the deer (Goal)” is that the action “eat” extends to “the deer.” In the broader meaning (as proposed by Halliday and assumed in the OpenText.org annotation), the system of transitivity consists of the various types of processes together with the structures that realize these processes.
+
+There are three basic elements to all process structures—the process itself, the participants in the process, and the circumstances associated with the process. Halliday distinguishes six process types. The three main process types are:
+
+material (i.e., what is going on outside oneself)
+mental (i.e, inner experience—awareness of our own states of being and reaction to our outer experience)
+relational (i.e., classifying and identifying one experience with other experiences).
+Stated differently, material processes basically involve a participant (the Actor/Agent) doing something to another participant (the Goal/Object). Mental processes involve the human senses—perception, affection, and cognition. Relational processes relate two terms in a variety of ways (similar to how the verb “to be” is used in English). The other three process types are located at the boundaries between the main process types. Behavioral processes border the material and mental, being outward expressions of inner workings. Verbal processes straddle the mental and relational: symbolic relationships are recognized and constructed in human consciousness. Existential processes border the relational and the material: phenomena are recognized to exist or to happen.
+In the OpenText.org clause level annotation:
+
+the subjects (S) and complements (C) correspond to the participants in a process
+the predicators (P) correspond to the processes
+and the adjuncts (A) typically correspond to the circumstances associated with the process, though some adjuncts are peripheral participants in a process
+The following are examples of the six process types found in 1 Thessalonians chapters 3 and 4:
+
+In 1 Thess. 4.14 (clause 1Thes.c4_53 in the annotation), the verb ἄξει, "he will lead," gives a material process. God will do something to those who died through Christ, specifically he will bring along with Christ those who have died through Christ.
+
+In 1 4.2 (clause 1Thes.c4_9), the verb οἴδατε, "we know,"portrays a mental process of cognition. (What is known is expressed by the c4_10: "what commands we gave you through the Lord Jesus.")
+
+In 4.3 (clause 1Thes.c4_11), the verb ἐστιν, "it is," represents a relational process. What is related are "God's will" and the demonstrative pronoun "this" (the content of "this" is spelled out in subsequent clauses, but it is basically the Thessalonians' holiness).
+
+In 4.12 (clause 1Thes.c4_42), the verb περιπατῆτε, "you may walk" (conduct yourselves) is a behavioral process, being an outward expression of inner workings of mindsets, desires, intentions, etc. leading to conduct).
+
+In 4.15 (clause 1Thes.c4_56), the verb λέγομεν, "we say," depicts a verbal process. What is said is "this" (the content of "this" is spelled out in subsequent clauses, basically the fact that those who are alive and remain at Christ's appearing will not have an advantage over those who have died is recognized, constructed in Paul's consciousness, and expressed verbally).
+
+In 3.4 (clause 1Thes.c3_14), the verb ἐγένετο, "it happened," pictures an existential process, recognizing that something happened. (In this case, the prediction about coming tribulation.)
+
+The meanings expressed in every clause concerning the participants, processes, and circumstances and how they are related to each other (e.g., who is doing what to or for whom) are thus conveniently summarized in this annotation scheme. This scheme also provides a systematic basis for the analysis of the various elements of clause structure (e.g., the order of clause constituents and the company that different participants, processes, or circumstances keep). In addition, when applied to a text, the process types—material, mental, relational, behavioral, verbal, and existential—provide a broad functional summary of the text.
