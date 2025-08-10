@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Randall K. Tan">
+<meta name="dcterms.date" content="2005-02-11">
 
-<title>Welcome to OpenText.org – OpenText.org</title>
+<title>Transivity – OpenText.org</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +25,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4df3b0c4fafa0f66eafcead0ee6cff11.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-4df3b0c4fafa0f66eafcead0ee6cff11.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,65 +69,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -139,7 +81,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">OpenText.org</span>
     </a>
   </div>
@@ -150,7 +92,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
 </ul>
@@ -165,7 +107,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Welcome to OpenText.org</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Transivity</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -188,25 +130,25 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about/overview.html" class="sidebar-item-text sidebar-link">
+  <a href="../../about/overview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Project Overview</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about/rationale.html" class="sidebar-item-text sidebar-link">
+  <a href="../../about/rationale.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Rationale for OpenText.org</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about/partners.html" class="sidebar-item-text sidebar-link">
+  <a href="../../about/partners.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Project Partners</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about/contact.html" class="sidebar-item-text sidebar-link">
+  <a href="../../about/contact.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Contact &amp; Involvement</span></a>
   </div>
 </li>
@@ -224,13 +166,13 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./model/model-introduction.html" class="sidebar-item-text sidebar-link">
+  <a href="../../model/model-introduction.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Introduction</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./model/guidelines.html" class="sidebar-item-text sidebar-link">
+  <a href="../../model/guidelines.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Guidelines</span></a>
   </div>
 </li>
@@ -265,22 +207,39 @@ window.Quarto = {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="YXJ0aWNsZXM=">articles <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Y2xhdXNlcw==">clauses <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29kZXglMjBTaW5haXRpY3Vz">Codex Sinaiticus <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29weXJpZ2h0">copyright <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R05U">GNT <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bW9kZWw=">model <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cGVkYWdvZ3k=">pedagogy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHJvY2Vzc2Vz">processes <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome to OpenText.org</h1>
-</div>
+<h1 class="title">Transivity</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">articles</div>
+    <div class="quarto-category">clauses</div>
+    <div class="quarto-category">processes</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Randall K. Tan </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 11, 2005</p>
+    </div>
+  </div>
   
     
   </div>
@@ -290,185 +249,37 @@ window.Quarto = {
 </header>
 
 
+<p>The concept of transitivity in Halliday’s grammatical system is a powerful tool in the analysis of the meanings expressed in clauses. The term transitivity has a broader and narrower meaning. The narrower meaning (found in traditional grammatical description and the one with which most readers are probably familiar) involves the verb’s relationship to dependent elements of structure. Transitive verbs take a direct object and intransitive verbs do not. Stated differently, the action of the verb extends to another entity in a transitive clause, but not in an intransitive clause. For example, the difference between “The tiger (Actor) pounced (Process)” and “The tiger (Actor) ate (Process) the deer (Goal)” is that the action “eat” extends to “the deer.” In the broader meaning (as proposed by Halliday and assumed in the OpenText.org annotation), the system of transitivity consists of the various types of processes together with the structures that realize these processes.</p>
+<p>There are three basic elements to all process structures—the process itself, the participants in the process, and the circumstances associated with the process. Halliday distinguishes six process types. The three main process types are:</p>
+<ol type="1">
+<li>material (i.e., what is going on outside oneself)</li>
+<li>mental (i.e, inner experience—awareness of our own states of being and reaction to our outer experience)</li>
+<li>relational (i.e., classifying and identifying one experience with other experiences). Stated differently, material processes basically involve a participant (the Actor/Agent) doing something to another participant (the Goal/Object). Mental processes involve the human senses—perception, affection, and cognition. Relational processes relate two terms in a variety of ways (similar to how the verb “to be” is used in English). The other three process types are located at the boundaries between the main process types. Behavioral processes border the material and mental, being outward expressions of inner workings. Verbal processes straddle the mental and relational: symbolic relationships are recognized and constructed in human consciousness. Existential processes border the relational and the material: phenomena are recognized to exist or to happen.</li>
+</ol>
+<p>In the OpenText.org clause level annotation:</p>
 <ul>
-<li><a href="./about/overview.html">See project overview</a></li>
-<li><a href="./about/partners.html">Learn about project partners</a></li>
+<li>the subjects (S) and complements (C) correspond to the participants in a process</li>
+<li>the predicators (P) correspond to the processes</li>
+<li>and the adjuncts (A) typically correspond to the circumstances associated with the process, though some adjuncts are peripheral participants in a process</li>
 </ul>
+<p>The following are examples of the six process types found in 1 Thessalonians chapters 3 and 4:</p>
+<p>In 1 Thess. 4.14 (clause 1Thes.c4_53 in the annotation), the verb ἄξει, “he will lead,” gives a material process. God will do something to those who died through Christ, specifically he will bring along with Christ those who have died through Christ.</p>
+<p><img src="1Thes.c4_53.jpg" class="img-fluid"></p>
+<p>In 1 4.2 (clause 1Thes.c4_9), the verb οἴδατε, “we know,”portrays a mental process of cognition. (What is known is expressed by the c4_10: “what commands we gave you through the Lord Jesus.”)</p>
+<p><img src="1Thes.c4_9.jpg" class="img-fluid"></p>
+<p>In 4.3 (clause 1Thes.c4_11), the verb ἐστιν, “it is,” represents a relational process. What is related are “God’s will” and the demonstrative pronoun “this” (the content of “this” is spelled out in subsequent clauses, but it is basically the Thessalonians’ holiness).</p>
+<p><img src="1Thes.c4_11.jpg" class="img-fluid"></p>
+<p>In 4.12 (clause 1Thes.c4_42), the verb περιπατῆτε, “you may walk” (conduct yourselves) is a behavioral process, being an outward expression of inner workings of mindsets, desires, intentions, etc. leading to conduct).</p>
+<p><img src="1Thes.c4_42.jpg" class="img-fluid"></p>
+<p>In 4.15 (clause 1Thes.c4_56), the verb λέγομεν, “we say,” depicts a verbal process. What is said is “this” (the content of “this” is spelled out in subsequent clauses, basically the fact that those who are alive and remain at Christ’s appearing will not have an advantage over those who have died is recognized, constructed in Paul’s consciousness, and expressed verbally).</p>
+<p><img src="1Thes.c4_56.jpg" class="img-fluid"></p>
+<p>In 3.4 (clause 1Thes.c3_14), the verb ἐγένετο, “it happened,” pictures an existential process, recognizing that something happened. (In this case, the prediction about coming tribulation.)</p>
+<p><img src="1Thes.c3_14.jpg" class="img-fluid"></p>
+<p>The meanings expressed in every clause concerning the participants, processes, and circumstances and how they are related to each other (e.g., who is doing what to or for whom) are thus conveniently summarized in this annotation scheme. This scheme also provides a systematic basis for the analysis of the various elements of clause structure (e.g., the order of clause constituents and the company that different participants, processes, or circumstances keep). In addition, when applied to a text, the process types—material, mental, relational, behavioral, verbal, and existential—provide a broad functional summary of the text.</p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="YXJ0aWNsZXM=" data-listing-date-sort="1121990400000" data-listing-file-modified-sort="1754869356286" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="653">
-<div class="thumbnail"><a href="./posts/why-opentext-org.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/why-opentext-org.html" class="no-external">Why OpenText.org?</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('YXJ0aWNsZXM='); return false;">articles</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/why-opentext-org.html" class="no-external">
-First-time visitors to this website may be wondering: What is the nature and purpose of this website? Why does OpenText.org exist? There are really several levels of…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/why-opentext-org.html" class="no-external">
-<div class="listing-date">
-Jul 22, 2005
-</div>
-<div class="listing-author">
-Randall K. Tan
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="YXJ0aWNsZXMlMkNjbGF1c2VzJTJDcHJvY2Vzc2Vz" data-listing-date-sort="1108080000000" data-listing-file-modified-sort="1754869356286" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="703">
-<div class="thumbnail"><a href="./posts/transivity/transivity.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/transivity/1Thes.c4_53.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/transivity/transivity.html" class="no-external">Transivity</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('YXJ0aWNsZXM='); return false;">articles</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2xhdXNlcw=='); return false;">clauses</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvY2Vzc2Vz'); return false;">processes</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/transivity/transivity.html" class="no-external">
-The concept of transitivity in Halliday’s grammatical system is a powerful tool in the analysis of the meanings expressed in clauses. The term transitivity has a broader and…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/transivity/transivity.html" class="no-external">
-<div class="listing-date">
-Feb 11, 2005
-</div>
-<div class="listing-author">
-Randall K. Tan
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="YXJ0aWNsZXMlMkNwZWRhZ29neSUyQ21vZGVs" data-listing-date-sort="1101513600000" data-listing-file-modified-sort="1754869356285" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="837">
-<div class="thumbnail"><a href="./posts/opentextorg-from-a-pedagogical-perspective.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/opentextorg-from-a-pedagogical-perspective.html" class="no-external">Introduction to the OpenText.org Annotation Model from a Pedagogical Perspective</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('YXJ0aWNsZXM='); return false;">articles</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGVkYWdvZ3k='); return false;">pedagogy</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bW9kZWw='); return false;">model</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/opentextorg-from-a-pedagogical-perspective.html" class="no-external">
-Imagine that you’re teaching an introductory class on the Gospels to university students. You have six weeks to instruct them how to read the Gospels, on top of educating…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/opentextorg-from-a-pedagogical-perspective.html" class="no-external">
-<div class="listing-date">
-Nov 27, 2004
-</div>
-<div class="listing-author">
-Randall K. Tan
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="YXJ0aWNsZXMlMkNDb2RleCUyMFNpbmFpdGljdXMlMkNHTlQ=" data-listing-date-sort="1010188800000" data-listing-file-modified-sort="1754869356285" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="389">
-<div class="thumbnail"><a href="./posts/codex-sinaiticus-as-base-text.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/codex-sinaiticus-as-base-text.html" class="no-external">Using Codex Sinaiticus as an Alternative to a Modern Eclectic Text</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('YXJ0aWNsZXM='); return false;">articles</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29kZXglMjBTaW5haXRpY3Vz'); return false;">Codex Sinaiticus</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('R05U'); return false;">GNT</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/codex-sinaiticus-as-base-text.html" class="no-external">
-Codex Sinaiticus was discovered in the nineteenth century by Constantine Tischendorf at St Catherine’s Monastery in the Sinai. He realized from the outset that this…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/codex-sinaiticus-as-base-text.html" class="no-external">
-<div class="listing-date">
-Jan 5, 2002
-</div>
-<div class="listing-author">
-Stanley E. Porter
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="YXJ0aWNsZXMlMkNjb3B5cmlnaHQlMkNHTlQ=" data-listing-date-sort="979171200000" data-listing-file-modified-sort="1754869356285" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="565">
-<div class="thumbnail"><a href="./posts/gnt-copyright.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/gnt-copyright.html" class="no-external">Can the Text of the Greek New Testament Really be Copyrighted?</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('YXJ0aWNsZXM='); return false;">articles</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29weXJpZ2h0'); return false;">copyright</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('R05U'); return false;">GNT</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/gnt-copyright.html" class="no-external">
-The editions of the New Testament commonly in use, such as the Nestle-Aland and UBSGNT texts, are copyrighted by various organizations. There probably is little basis for…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/gnt-copyright.html" class="no-external">
-<div class="listing-date">
-Jan 11, 2001
-</div>
-<div class="listing-author">
-Stanley E. Porter
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
